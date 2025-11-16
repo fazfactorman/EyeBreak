@@ -50,7 +50,7 @@ Download the latest version from the Releases page:
 
 👉  https://github.com/fazfactorman/EyeBreak/releases/tag/v1.0.0
 
-🛠️ Installation
+ Installation
 
 Download the .dmg file
 
@@ -84,5 +84,5 @@ If you want new features or improvements, just ask.
 
 Support
 
-If you like this project, consider giving the repo a star ★
+If you like this project, consider giving the repo a star 
 It motivates more development and updates!
