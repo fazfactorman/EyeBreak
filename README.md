@@ -15,7 +15,7 @@ Auto-restart after breaks
 
 Pause / Unpause anytime
 
- macOS Notifications
+macOS Notifications
 
 EyeBreak uses real macOS notifications — works even if the app is minimized.
 
